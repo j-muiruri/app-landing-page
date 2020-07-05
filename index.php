@@ -315,11 +315,11 @@
                 </div>
 
                 <ul class="icon mt-30">
-                        <li><a href="#"><i class="ion-social-pinterest"></i></a></li>
-                        <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-                        <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon ion-social-pinterest"></i></a></li>
+                        <li><a href="#"><i class="icon ion-social-facebook-outline"></i></a></li>
+                        <li><a href="#"><i class="icon ion-social-twitter-outline"></i></a></li>
                         <li><a href="#"><i class="ion-social-dribbble-outline"></i></a></li>
-                        <li><a href="#"><i class="ion-social-linkedin"></i></a></li>
+                        <li><a href="#"><i class="icon ion-social-linkedin-outline"></i></a></li>
                         <li><a href="#"><i class="ion-social-vimeo"></i></a></li>
                 </ul>
         </div><!-- container -->
