@@ -1498,7 +1498,7 @@ ul.selecton li a.active{ border-radius: 3px 3px 0 0; background: #EF0031; color:
 
 /*FOOTER*/
 
-footer{ background: url("../images/footer_1600x800.jpg") no-repeat; background-size: cover;  position: relative;  text-align: center;z-index: 1;  font-size: 1.3em; }
+footer{ background: url("../images/footer_1920.jpg") no-repeat; background-size: cover;  position: relative; background-position: bottom;  text-align: center;z-index: 1;  font-size: 1.3em; }
 
 .footer-bg-1{ background-image:  url("../images/footer-1.png") ; }
 .footer-bg-1:after{ display: none; }
