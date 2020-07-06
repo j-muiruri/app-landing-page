@@ -45,17 +45,32 @@
 <section id="carousel_food" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="images/slider_2_1920_600.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/fish_1920.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block dplay-tbl-cell center-text color-white">
     <h5><b>BEST IN TOWN</b></h5>
-    <h1 class="mt-30 mb-15">Pizza & Pasta</h1>
+    <h1 class="mt-30 mb-15">Fried Fish</h1>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/slider_3_1920_600.jpg" alt="Second slide">
+      <img class="d-block w-100" src="images/chicken_1920.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block dplay-tbl-cell center-text color-white">
+    <h5><b>BEST IN TOWN</b></h5>
+    <h1 class="mt-30 mb-15">Tasty Chicken</h1>
+  </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/slider_4_1920_600.jpg" alt="Third slide">
+      <img class="d-block w-100" src="images/Ugali_2700.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block dplay-tbl-cell center-text color-white">
+    <h5><b>BEST IN TOWN</b></h5>
+    <h1 class="mt-30 mb-15">Ugali!</h1>
+  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/fries_1920.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block dplay-tbl-cell center-text color-white">
+    <h5><b>BEST IN TOWN</b></h5>
+    <h1 class="mt-30 mb-15">Yummy Fries</h1>
+  </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carousel_food" role="button" data-slide="prev">
@@ -66,20 +81,17 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-      
-    
-        <!--<div id="carousel_food" class="carousel slide" data-ride="carousel">
-</div> -->
+</section>
+<section>
 <div class="dplay-tbl">
                         <div class="dplay-tbl-cell center-text color-white">
-<br>
-<br>
                               <!--  <h5><b>BEST IN TOWN</b></h5>
                                 <h1 class="mt-30 mb-15">Pizza & Pasta</h1>
                                 <h5> -->
-                                <a href="tel:+254711123456" class="btn-primaryc plr-25"><b>Make Your Order Today!</b></a></h5>
+                                <a href="tel:+254711123456" class="btn-primaryc btn-lg plr-25"><b>Make Your Order Today!</b></a></h5>
                         </div><!-- dplay-tbl-cell 
                 </div> dplay-tbl -->
+
 </section>
 
 <footer class="pb-50  pt-70 pos-relative">
@@ -105,6 +117,7 @@
                         <li><a href="#"><i class="icon ion-social-linkedin-outline"></i></a></li>
                         <li><a href="#"><i class="ion-social-vimeo"></i></a></li>
                 </ul>
+                <br
         </div><!-- container -->
 </footer>
 
