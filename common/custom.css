@@ -1,0 +1,11 @@
+/**My Styles**/
+#food_carousel {
+	height:100%;
+}
+#food_carousel .carousel-inner{
+	height:100%;
+}
+#food_carousel .item{
+	width:100%;
+	height:100%;
+}
